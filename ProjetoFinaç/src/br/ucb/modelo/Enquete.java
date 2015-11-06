@@ -4,7 +4,8 @@ import java.io.Serializable;
 
 public class Enquete implements Serializable {
 
-//	Teste Final
+//	Teste 
+	//outro teste
 	private static final long serialVersionUID = 1L;
 
 }
